@@ -1,4 +1,6 @@
-![CognoAI Logo](logo.png) # CognoAI
+![CognoAI Banner](logo.png)
+
+# CognoAI
 本地端轻量化自生长类脑智能探索倡议
 
 ## 核心框架
