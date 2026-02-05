@@ -17,3 +17,12 @@
 ## 官方账号
 小红书：三条川学长
 主页链接：https://xhslink.com/m/6Qtxux3fYbF
+
+## 🌟 加入我们
+CognoAI 开源社区期待你的参与！在这里你可以：
+- 与类脑智能研究者共同探讨底层规则与架构设计
+- 分享实验成果、代码片段与可视化 Demo
+- 第一时间获取项目更新、白皮书迭代通知
+
+👉 立即加入 Discord 社区：
+https://discord.gg/pcDedC7seT
