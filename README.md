@@ -27,4 +27,4 @@ CognoAI 开源社区期待你的参与！在这里你可以：
 👉 立即加入 Discord 社区：
 https://discord.gg/pcDedC7seT
 
-详细说明请看 [8x8 像素对称 Logo 组件](wiki/8x8-pixel-symmetric-logo)
+详细说明请看 [8x8 像素对称 Logo 组件](wiki/8x8-像素对称-logo-组件)
