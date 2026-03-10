@@ -26,3 +26,5 @@ CognoAI 开源社区期待你的参与！在这里你可以：
 
 👉 立即加入 Discord 社区：
 https://discord.gg/pcDedC7seT
+
+UI 组件与 8x8 像素 Logo  实现详见 GitHub Wiki
